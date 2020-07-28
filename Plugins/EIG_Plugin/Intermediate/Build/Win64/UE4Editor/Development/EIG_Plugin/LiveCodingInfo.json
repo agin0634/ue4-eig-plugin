@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EIG_Plugin.cpp.obj": [
+			"EIG_Plugin.cpp.obj",
+			"EIGBlueprintFunctionLibrary.cpp.obj"
+		],
+		"Module.EIG_Plugin.gen.cpp.obj": [
+			"EIG_Plugin.init.gen.cpp.obj",
+			"EIGBlueprintFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

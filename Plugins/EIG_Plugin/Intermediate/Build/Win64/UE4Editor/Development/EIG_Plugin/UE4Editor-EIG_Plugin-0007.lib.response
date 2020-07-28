@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EIG_Plugin-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Project\EIG_Base\Intermediate\Build\Win64\EIG_BaseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Intermediate\Build\Win64\UE4Editor\Development\EIG_Plugin\Module.EIG_Plugin.cpp.obj"
+"C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Intermediate\Build\Win64\UE4Editor\Development\EIG_Plugin\Module.EIG_Plugin.gen.cpp.obj"
+"C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Intermediate\Build\Win64\UE4Editor\Development\EIG_Plugin\Default.rc2.res"
+/OUT:"C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Intermediate\Build\Win64\UE4Editor\Development\EIG_Plugin\UE4Editor-EIG_Plugin-0007.lib"
+/INCLUDE:IMPLEMENT_MODULE_EIG_Plugin

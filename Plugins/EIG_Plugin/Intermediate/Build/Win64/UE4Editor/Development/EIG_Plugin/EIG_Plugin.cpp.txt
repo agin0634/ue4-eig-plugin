@@ -1,0 +1,2 @@
+C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Intermediate\Build\Win64\UE4Editor\Development\EIG_Plugin\Definitions.EIG_Plugin.h
+C:\Unreal Project\EIG_Base\Plugins\EIG_Plugin\Source\EIG_Plugin\Public\EIG_Plugin.h
